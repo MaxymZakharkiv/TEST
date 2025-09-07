@@ -6,7 +6,6 @@ export const App = () => {
   return (
     <div>
       <h1>{t("welcome")}</h1>
-      <input placeholder={t("welcome")} type="text" />
     </div>
   );
 };
